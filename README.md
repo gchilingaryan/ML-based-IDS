@@ -3,7 +3,7 @@ Intrusion Detection System based on Machine Learning techniques
 
 Libraries:  
 `pip install pandas`  
-`pip install numpy` 
+`pip install numpy`  
 `pip install scikit-learn`  
 `pip install pyshark`  
 
@@ -16,5 +16,5 @@ Our own datasets were collected using this tools:
 - ZAP  
 - Burp Suite  
 
-Refernces: https://github.com/ahlashkari/CICFlowMeter
+References: https://github.com/ahlashkari/CICFlowMeter
 
