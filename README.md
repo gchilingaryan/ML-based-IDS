@@ -16,5 +16,7 @@ Our own datasets were collected using this tools:
 - ZAP  
 - Burp Suite  
 
-References: https://github.com/ahlashkari/CICFlowMeter
+References: https://github.com/ahlashkari/CICFlowMeter  
+
+Run: `python3 ids.py`
 
